@@ -41,7 +41,8 @@
         app:layout_constraintTop_toBottomOf="@+id/loginText"
         app:startIconDrawable="@drawable/ic_mail_outline"
         app:startIconTint="?attr/colorControlNormal"
-        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        >
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/emailEditText"

@@ -7,4 +7,6 @@
     <string name="default_email_user_gmail_com">Default Email: user@gmail.com</string>
     <string name="default_password_123456">Default password: 123456</string>
     <string name="sample_1">Sample 1</string>
+    <string name="welcome_to_fruit_world">Welcome to fruit World</string>
+    <string name="go_back">Go back</string>
 </resources>
