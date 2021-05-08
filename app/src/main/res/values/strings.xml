@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ListViewAssignment</string>
+    <string name="login_to_zuri_training">Login To Zuri Training</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="default_email_user_gmail_com">Default Email: user@gmail.com</string>
+    <string name="default_password_123456">Default password: 123456</string>
+    <string name="sample_1">Sample 1</string>
 </resources>
